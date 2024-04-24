@@ -56,7 +56,7 @@ export default async function HomePage() {
         </Link> 
         <br/>
         <Link href="/contact/contact-me">
-          <Button className="mt-10 bg-green-300 text-sky-600 shadow-xl">Send me an email</Button>
+          <Button className="mt-10 bg-green-300 text-sky-600 shadow-xl">Contact me by email</Button>
         </Link> 
       
         <Footer />    
